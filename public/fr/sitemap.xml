@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>//localhost:1313/fr/about/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/about/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="//localhost:1313/fr/about/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/fr/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="//localhost:1313/fr/"
+    />
+  </url>
+</urlset>

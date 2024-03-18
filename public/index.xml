@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Matéo Centeno :smile:</copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>About</title>
       <link>//localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
@@ -19,12 +19,22 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Post</title>
       <link>//localhost:1313/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/posts/</guid>
-      <description>posts #</description>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/resume/</guid>
+      <description>Professional Experience 👩‍💻 #Apprenticeship 2023 - presentWeb developmentDeveloping the intranet of the company by developing three modules :Company&#39;s Trombinoscopea meeting room managera company car managerDeveloped using React and the SharePoint framework, these modules are available within the Microsoft 365 environment.</description>
       
     </item>
     

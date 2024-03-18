@@ -49,9 +49,9 @@ disableTextInHeader = false
 [article]
   showDate = false
   showViews = false
-  showLikes = true
-  showDateOnlyInArticle = true
-  showDateUpdated = true
+  showLikes = false
+  showDateOnlyInArticle = false
+  showDateUpdated = false
   showAuthor = true
   showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground

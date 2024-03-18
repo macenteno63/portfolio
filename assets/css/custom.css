@@ -1,4 +1,13 @@
-body * {
-    text-align: justify;
-    justify-content: center;
+:root {
+    --custom-code-color: rgba(6, 212, 92, 1);
+}
+
+
+
+.prose code {
+    color: var(--custom-code-color) !important;
+}
+
+.max-w-prose {
+    max-width: 100% !important;
 }
