@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>//localhost:1313/fr/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="//localhost:1313/fr/"
+    />
+  </url>
+  <url>
     <loc>//localhost:1313/fr/about/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -19,19 +35,18 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/fr/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/fr/resume/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/"
+      href="//localhost:1313/resume/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/"
+      href="//localhost:1313/fr/resume/"
     />
   </url>
 </urlset>

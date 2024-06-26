@@ -11,12 +11,12 @@ title = "Matéo Centeno"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  copyright = "Matéo Centeno :smile:"
+  copyright = "Matéo Centeno 😄"
 
 [author]
 name = "Matéo Centeno"
 image = "img/moi.jpg"
-headline = "Student :green_book: Developer :sunglasses:"
+headline = "Student 📗 Developer 😎"
 bio = "A little bit about you"
 links = [
   { email = "mailto:mateocenteno63@gmail.com"},
