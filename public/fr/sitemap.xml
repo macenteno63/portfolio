@@ -3,50 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/fr/</loc>
+    <loc>http://localhost:1313/containers/mateocenteno-portfolio/fr/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/fr/about/</loc>
+    <loc>http://localhost:1313/containers/mateocenteno-portfolio/fr/about/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/about/"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/about/"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/about/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/fr/resume/</loc>
+    <loc>http://localhost:1313/containers/mateocenteno-portfolio/fr/resume/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/resume/"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/resume/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/resume/"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/resume/"
     />
   </url>
 </urlset>

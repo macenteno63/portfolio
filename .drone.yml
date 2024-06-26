@@ -29,3 +29,4 @@ steps:
         CONTAINERNAME: portfolio
         COMMAND: create
         OVERWRITE: true 
+    depends_on: [ docker-build-and-push, pullsubmodule ]

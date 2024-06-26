@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on Matéo Centeno</title>
-    <link>http://localhost:1313/containers/mateocenteno-portfolio/posts/</link>
-    <description>Recent content in Post on Matéo Centeno</description>
+    <title>Professionnal Experience on Matéo Centeno</title>
+    <link>http://localhost:1313/containers/mateocenteno-portfolio/tags/professionnal-experience/</link>
+    <description>Recent content in Professionnal Experience on Matéo Centeno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Matéo Centeno 😄</copyright>
-    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/containers/mateocenteno-portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/containers/mateocenteno-portfolio/tags/professionnal-experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alternance chez blizz</title>
       <link>http://localhost:1313/containers/mateocenteno-portfolio/posts/alternance/</link>
@@ -16,16 +16,6 @@
       <guid>http://localhost:1313/containers/mateocenteno-portfolio/posts/alternance/</guid>
       <description>Learn more about me and why I am starting this blog.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/containers/mateocenteno-portfolio/posts/alternance/featured.png" />
-    </item>
-    
-    <item>
-      <title>Rivall a mobile game to challenge your friends</title>
-      <link>http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/</guid>
-      <description>Learn more about me and why I am starting this blog.</description>
-      
     </item>
     
   </channel>

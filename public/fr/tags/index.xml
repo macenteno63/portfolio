@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Matéo Centeno</title>
-    <link>//localhost:1313/fr/tags/</link>
+    <link>http://localhost:1313/containers/mateocenteno-portfolio/fr/tags/</link>
     <description>Recent content in Tags on Matéo Centeno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Matéo Centeno 😄</copyright>
-    <atom:link href="//localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/containers/mateocenteno-portfolio/fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

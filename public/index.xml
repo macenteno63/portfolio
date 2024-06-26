@@ -2,28 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matéo Centeno</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/containers/mateocenteno-portfolio/</link>
     <description>Recent content on Matéo Centeno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Matéo Centeno 😄</copyright>
-    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/containers/mateocenteno-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alternance chez blizz</title>
+      <link>http://localhost:1313/containers/mateocenteno-portfolio/posts/alternance/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/containers/mateocenteno-portfolio/posts/alternance/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/containers/mateocenteno-portfolio/posts/alternance/featured.png" />
+    </item>
+    
+    <item>
+      <title>Rivall a mobile game to challenge your friends</title>
+      <link>http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
+    
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/containers/mateocenteno-portfolio/about/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/about/</guid>
+      <guid>http://localhost:1313/containers/mateocenteno-portfolio/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
       
     </item>
     
     <item>
       <title>Resume</title>
-      <link>//localhost:1313/resume/</link>
+      <link>http://localhost:1313/containers/mateocenteno-portfolio/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/resume/</guid>
+      <guid>http://localhost:1313/containers/mateocenteno-portfolio/resume/</guid>
       <description>Professional Experience 👩‍💻 # Apprenticeship 2023 - present Web development Developing the intranet of the company by developing three modules : Company&#39;s Trombinoscope a meeting room manager a company car manager Developed using React and the SharePoint framework, these modules are available within the Microsoft 365 environment.</description>
       
     </item>
