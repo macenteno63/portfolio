@@ -1,0 +1,20 @@
+kind: pipeline
+type: docker
+name: Deployment
+
+trigger:
+  event:
+    - push
+
+steps:
+  - name: docker-build-and-push
+    image: plugins/docker
+    settings:
+       dockerfile: Dockerfile
+       context: .
+       registry: hub.codefirst.iut.uca.fr
+       repo: hub.codefirst.iut.uca.fr/mateo.centeno/portfolio
+       username:
+         from_secret: SECRET_REGISTRY_USERNAME
+       password:
+         from_secret: SECRET_REGISTRY_PASSWORD
