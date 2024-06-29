@@ -1,11 +1,13 @@
 ---
 title: Resume
+date: 2024-03-18
 showthedate: false
 params :
     showDate: false
     showDateUpdated: false
     menu: true
     showTableOfContents: true
+    showEdit: false
 ---
 
 ## Professional Experience 👩‍💻
@@ -34,7 +36,7 @@ The first four weeks of my internship were dedicated to learning about the diffe
 {{< /timeline >}}
 
 
-## Education :notebook:
+## Education 📗
 
 {{< timeline >}}
 

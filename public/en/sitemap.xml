@@ -23,12 +23,32 @@
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/alternance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/posts/alternance/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/rivall/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/containers/mateocenteno-portfolio/about/</loc>
@@ -51,9 +71,20 @@
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/containers/mateocenteno-portfolio/posts/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/containers/mateocenteno-portfolio/resume/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link

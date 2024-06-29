@@ -1,11 +1,13 @@
 ---
 title: Resume
+date: 2024-03-18
 showthedate: false
 params :
     showDate: false
     showDateUpdated: false
     menu: true
     showTableOfContents: true
+    showEdit: false
 ---
 
 ## Expérience professionnel  👩‍💻
@@ -35,21 +37,21 @@ La seconde partie de mon stage à consister à réaliser une étude de faisabili
 {{< /timeline >}}
 
 
-## Education :notebook:
+## Education 📗
 
 {{< timeline >}}
 
 {{< timelineItem icon="graduation-cap" header="But informatique" badge="2021 - 2024" subheader="But informatique à l'iut de Clermont-Ferrand" >}}
 
-Skills
+Compétences
 <ul>
-    <li>Web development</li>
-    <li>Mobile development</li>
-    <li>Project management</li>
-    <li>English</li>
-    <li>Database management</li>
+    <li>Développement web</li>
+    <li>Développement mobile</li>
+    <li>Gestion de projet</li>
+    <li>Anglais</li>
+    <li>Gestion de base de données</li>
     <li>Communication</li>
-    <li>Testing</li>
+    <li>Test</li>
 </ul>
 
 {{< /timelineItem >}}

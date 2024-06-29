@@ -4,7 +4,7 @@ RUN apk add --update \
     wget
 
 # Define the Hugo version
-ARG HUGO_VERSION="0.117.0"
+ARG HUGO_VERSION="0.128.0"
 
 # Download and install Hugo
 RUN wget --quiet "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" && \
