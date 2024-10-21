@@ -14,15 +14,15 @@ title = "Matéo Centeno"
   copyright = "Matéo Centeno 😄"
 
 [author]
-name = "Matéo Centeno"
-image = "img/moi.jpg"
-headline = "Étudiant 📗 Développeur 😎"
-bio = "A propos de moi"
-links = [
-  { email = "mailto:mateocenteno63@gmail.com"},
-  { github = "https://github.com/macenteno63" },
-  { linkedin = "https://www.linkedin.com/in/mat%C3%A9o-centeno-091956251/"}
-]
+  name = "Matéo Centeno"
+  image = "img/moi.jpg"
+  headline = "Étudiant 📗 Développeur 😎"
+  bio = "A propos de moi"
+  links = [
+    { email = "mailto:mateocenteno63@gmail.com"},
+    { github = "https://github.com/macenteno63" },
+    { linkedin = "https://www.linkedin.com/in/mat%C3%A9o-centeno-091956251/"}
+  ]
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

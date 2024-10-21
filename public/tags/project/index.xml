@@ -2,20 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on Matéo Centeno</title>
-    <link>http://localhost:1313/containers/mateocenteno-portfolio/tags/project/</link>
+    <link>//localhost:1313/tags/project/</link>
     <description>Recent content in Project on Matéo Centeno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Matéo Centeno 😄</copyright>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/containers/mateocenteno-portfolio/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Three.js project</title>
+      <link>//localhost:1313/posts/dredge/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/dredge/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/dredge/featured.jpg" />
+    </item>
+    
     <item>
       <title>Rivall</title>
-      <link>http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/</link>
+      <link>//localhost:1313/posts/rivall/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/</guid>
+      <guid>//localhost:1313/posts/rivall/</guid>
       <description>A mobile game to challenge your friends</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/rivall/featured.jpeg" />
     </item>
     
   </channel>

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Matéo Centeno</title>
-    <link>http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/</link>
+    <link>//localhost:1313/fr/posts/</link>
     <description>Recent content in Posts on Matéo Centeno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Matéo Centeno 😄</copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/fr/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projet personnel Three.js</title>
-      <link>http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/dredge/</link>
+      <link>//localhost:1313/fr/posts/dredge/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/dredge/</guid>
+      <guid>//localhost:1313/fr/posts/dredge/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/containers/mateocenteno-portfolio/posts/dredge/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/dredge/featured.jpg" />
     </item>
     
     <item>
       <title>Alternance chez blizz</title>
-      <link>http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/alternance/</link>
+      <link>//localhost:1313/fr/posts/alternance/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/alternance/</guid>
+      <guid>//localhost:1313/fr/posts/alternance/</guid>
       <description>Détails de mon expérience de stage et des projets sur lesquels j&amp;rsquo;ai travaillé chez Blizz.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/containers/mateocenteno-portfolio/posts/alternance/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/alternance/featured.png" />
     </item>
     
     <item>
       <title>Rivall</title>
-      <link>http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/rivall/</link>
+      <link>//localhost:1313/fr/posts/rivall/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/rivall/</guid>
+      <guid>//localhost:1313/fr/posts/rivall/</guid>
       <description>Un jeux mobile pour mettre au défi tes amis</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/rivall/featured.jpeg" />
     </item>
     
   </channel>

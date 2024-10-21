@@ -3,99 +3,99 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/containers/mateocenteno-portfolio/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="//localhost:1313/fr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/alternance/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/"
+      href="//localhost:1313/fr/posts/alternance/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/"
+      href="//localhost:1313/posts/alternance/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/containers/mateocenteno-portfolio/posts/alternance/</loc>
+    <loc>//localhost:1313/posts/rivall/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/alternance/"
+      href="//localhost:1313/fr/posts/rivall/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/posts/alternance/"
+      href="//localhost:1313/posts/rivall/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/</loc>
-    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/rivall/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/posts/rivall/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/containers/mateocenteno-portfolio/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/about/"
+      href="//localhost:1313/fr/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/about/"
+      href="//localhost:1313/about/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/containers/mateocenteno-portfolio/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/posts/"
+      href="//localhost:1313/fr/posts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/posts/"
+      href="//localhost:1313/posts/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/containers/mateocenteno-portfolio/resume/</loc>
+    <loc>//localhost:1313/resume/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/fr/resume/"
+      href="//localhost:1313/fr/resume/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/containers/mateocenteno-portfolio/resume/"
+      href="//localhost:1313/resume/"
     />
   </url>
 </urlset>
