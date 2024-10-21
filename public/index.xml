@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Matéo Centeno 😄</copyright>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/containers/mateocenteno-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/containers/mateocenteno-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Three.js project</title>
+      <link>http://localhost:1313/containers/mateocenteno-portfolio/posts/dredge/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/containers/mateocenteno-portfolio/posts/dredge/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/containers/mateocenteno-portfolio/posts/dredge/featured.jpg" />
+    </item>
+    
     <item>
       <title>Internship Experience at Blizz</title>
       <link>http://localhost:1313/containers/mateocenteno-portfolio/posts/alternance/</link>
@@ -34,7 +44,7 @@
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/containers/mateocenteno-portfolio/about/</guid>
-      <description>Hello everyone 👋 # I am a student at the University Institute of Technology (IUT) in Computer Science at Clermont-Auvergne University.</description>
+      <description></description>
       
     </item>
     
@@ -44,7 +54,7 @@
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/containers/mateocenteno-portfolio/resume/</guid>
-      <description>Professional Experience 👩‍💻 # Apprenticeship 2023 - present Web development Developing the intranet of the company by developing three modules : Company&#39;s Trombinoscope a meeting room manager a company car manager Developed using React and the SharePoint framework, these modules are available within the Microsoft 365 environment.</description>
+      <description></description>
       
     </item>
     

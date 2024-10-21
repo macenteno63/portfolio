@@ -9,5 +9,3 @@
 Développeur full stack
 Développeur mobile
 {{< /typeit >}}
-
-[Télécharger mon CV](CV_Mateo_Centeno.fr.png)

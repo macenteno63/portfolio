@@ -9,8 +9,10 @@ params:
 ---
 ### Hello everyone 👋
 
-I am a student at the University Institute of Technology (IUT) in Computer Science at Clermont-Auvergne University. I have been pursuing this program for three years now, and I am completing this third year as an apprentice at Blizz, a small digital service company.
+As a former student of the Computer Science IUT at the University of Clermont-Auvergne, I was lucky enough during my university course to be able to follow a very rich and comprehensive course in the field of computer science. Through tutored projects, I've been able to put into practice the skills I've learnt in theory, and build up solid experience, particularly in the development of web and mobile applications.
 
-I am a curious developer interested in various topics in computer science and enjoy trying out everything. During my apprenticeship, I am employed as a web developer since I have had the opportunity to create various applications using `React` and the `SharePoint framework` to develop the company's intranet.
+I'm a curious developer who's interested in a variety of IT subjects and likes to dabble in everything.I spent my third year at BUT as a web developer, where I had the opportunity to develop various applications using `React` and `SharePoint framework` to develop the company's intranet.
 
-I have also worked on several projects at the IUT, including a cross-platform mobile game/social network with `Flutter` and a REST API with `Django Rest Framework`.
+I was also able to work on various projects at the IUT, including a cross-platform mobile game/social network using `Flutter` and an Api Rest using `Django Rest Framework`.
+
+Today, I'm motivated to enter working life and develop my IT skills. In particular, I'd like to become a WebGL developer to master the technologies involved in creating interactive and immersive graphical experiences on the web, using libraries like `Three.js`.

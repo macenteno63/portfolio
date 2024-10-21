@@ -9,6 +9,3 @@
 Full stack developer
 Mobile developer
 {{< /typeit >}}
-
-
-[Download my CV](CV_Mateo_Centeno.png)

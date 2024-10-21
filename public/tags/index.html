@@ -32,8 +32,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/containers/mateocenteno-portfolio/css/main.bundle.min.70df04b44f6ac8c3e4eb64acc4104f0dff5a2530e02f2c2a94e3a8a793c5aacdf1b3925c06ddf40dc93c14137b57373aa15ee7d9b5f267406665cfa465653c22.css"
-    integrity="sha512-cN8EtE9qyMPk62SsxBBPDf9aJTDgLywqlOOop5PFqs3xs5JcBt30Dck8FBN7Vzc6oV7n2bXyZ0BmZc&#43;kZWU8Ig==" />
+  <link type="text/css" rel="stylesheet" href="/containers/mateocenteno-portfolio/css/main.bundle.min.bf2902077d1c3777daa171502a3a633abbb33ebff94c336048c7404d17b9ac9d985da9782aa3680545faf4f145cb85e9fad58424b6cf79bc3464872821730ac7.css"
+    integrity="sha512-vykCB30cN3faoXFQKjpjOruzPr/5TDNgSMdATRe5rJ2YXal4KqNoBUX69PFFy4Xp&#43;tWEJLbPebw0ZIcoIXMKxw==" />
   
   
   <script type="text/javascript" src="/containers/mateocenteno-portfolio/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -47,11 +47,14 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/containers/mateocenteno-portfolio/js/main.bundle.min.b36dda9ec4ec11e967fd341e7d57b8c484ac7a39f8f329f7bcf7ce4812569de8607db866a086d4789956ac0b74967e251c9a566d94d469dd28b8787fed4f46f5.js"
-    integrity="sha512-s23ansTsEeln/TQefVe4xISsejn48yn3vPfOSBJWnehgfbhmoIbUeJlWrAt0ln4lHJpWbZTUad0ouHh/7U9G9Q==" data-copy="" data-copied=""></script>
   
   
-  <script src="/containers/mateocenteno-portfolio/js/zoom.min.js"></script>
+  <script defer type="text/javascript" id="script-bundle" src="/containers/mateocenteno-portfolio/js/main.bundle.min.a5312a15393b6da77a379acf5b55576cabc85cb09cf0973d143812be82d0810982674c92e8564f3999e456d97305ae6f6269c41612d008359d8b94265a99eec5.js"
+    integrity="sha512-pTEqFTk7bad6N5rPW1VXbKvIXLCc8Jc9FDgSvoLQgQmCZ0yS6FZPOZnkVtlzBa5vYmnEFhLQCDWdi5QmWpnuxQ==" data-copy="" data-copied=""></script>
+  
+  
+  
+  <script src="/containers/mateocenteno-portfolio/lib/zoom/zoom.min.37d2094687372da3f7343a221a470f6b8806f7891aa46a5a03966af7f0ebd38b9fe536cb154e6ad28f006d184b294525a7c4054b6bbb4be62d8b453b42db99bd.js" integrity="sha512-N9IJRoc3LaP3NDoiGkcPa4gG94kapGpaA5Zq9/Dr04uf5TbLFU5q0o8AbRhLKUUlp8QFS2u7S&#43;Yti0U7QtuZvQ=="></script>
   
   
   
@@ -81,23 +84,12 @@
 
   
   
-  <meta name="author" content="Matéo Centeno" />
-  
-  
-  
-  <link href="mailto:mateocenteno63@gmail.com" rel="me" />
-  
-  
-  <link href="https://github.com/macenteno63" rel="me" />
-  
-  
-  <link href="https://www.linkedin.com/in/mat%C3%A9o-centeno-091956251/" rel="me" />
-  
   
   
   
 
-<script src="/containers/mateocenteno-portfolio/lib/jquery/jquery.slim.min.js" integrity=""></script>
+<script src="/containers/mateocenteno-portfolio/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js" integrity="sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj&#43;KsslFkCOt3TvJrX2AV/Gc3wOqA=="></script>
+
 
 
 
@@ -121,6 +113,7 @@
 
   
   
+
 
 
   
@@ -361,8 +354,7 @@
     </div>
     <div class="-my-2 -mr-2 md:hidden">
 
-        <label id="menu-button" for="menu-controller" class="block">
-            <input type="checkbox" id="menu-controller" class="hidden" />
+        <label id="menu-button" class="block">
             
             <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
                 
@@ -379,7 +371,7 @@
                 <ul
                     class="flex space-y-2 mt-3 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none ltr:text-right rtl:text-left max-w-7xl">
 
-                    <li>
+                    <li id="menu-close-button">
                         <span
                             class="cursor-pointer inline-block align-text-bottom hover:text-primary-600 dark:hover:text-primary-400">
 
@@ -511,14 +503,6 @@
 
     </div>
   </header>
-  
-  <script>
-    var oid = "views_taxonomy_tags"
-    var oid_likes = "likes_taxonomy_tags"
-  </script>
-  
-  
-  <script type="text/javascript" src="/containers/mateocenteno-portfolio/js/page.min.0860cf4e04fa2d72cc33ddba263083464d48f67de06114529043cb4623319efed4f484fd7f1730df5abea0e2da6f3538855634081d02f2d6e920b956f063e823.js" integrity="sha512-CGDPTgT6LXLMM926JjCDRk1I9n3gYRRSkEPLRiMxnv7U9IT9fxcw31q&#43;oOLabzU4hVY0CB0C8tbpILlW8GPoIw=="></script>
   
 
   
