@@ -6,6 +6,7 @@ summary: "A mobile game to challenge your friends"
 tags: ["project"]
 params:
     showEdit: false
+    showAuthor: false
 ---
 
 During my third year of my IT Bachelor's degree (BUT informatique), I developed a cross-platform mobile game called "Rivall" with four of my classmates.

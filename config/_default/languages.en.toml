@@ -13,16 +13,6 @@ title = "Matéo Centeno"
   # description = "My awesome website"
   copyright = "Matéo Centeno 😄"
 
-[author]
-  name = "Matéo Centeno"
-  image = "img/moi.jpg"
-  headline = "Student 📗 Developer 😎"
-  bio = "A little bit about you"
-  links = [
-    { email = "mailto:mateocenteno63@gmail.com"},
-    { github = "https://github.com/macenteno63" },
-    { linkedin = "https://www.linkedin.com/in/mat%C3%A9o-centeno-091956251/"}
-  ]
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

@@ -1,5 +1,5 @@
 colorScheme = "Forest"
-defaultAppearance = "light" # valid options: light or dark
+defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
@@ -27,16 +27,28 @@ highlightCurrentMenuArea = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
+[author]
+  name = "Matéo Centeno"
+  image = "img/MOI2.jpg"
+  headline = "Student 📗 Developer 😎"
+  bio = "A little bit about you"
+  links = [
+    { email = "mailto:mateocenteno63@gmail.com"},
+    { github = "https://github.com/macenteno63" },
+    { linkedin = "https://www.linkedin.com/in/mat%C3%A9o-centeno-091956251/"}
+  ]
+
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "img/background.png" # used in: hero, and card
+  #homepageImage = "image.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 3
   showMoreLink = false
   showMoreLinkDest = "/posts"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
+
 
 [article]
   showDate = true

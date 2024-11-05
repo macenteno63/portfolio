@@ -6,6 +6,7 @@ summary: "Détails de mon expérience de stage et des projets sur lesquels j'ai 
 tags: ["professionnal experience"]
 params:
     showEdit: false
+    showAuthor: false
 ---
 
 J'ai réalisé mon alternance chez Blizz. C'est une entreprise qui propose des services informatique comme l'hébergement de données ou le développement de projet informatique.

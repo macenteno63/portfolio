@@ -6,6 +6,7 @@ summary: "Un jeux mobile pour mettre au défi tes amis"
 tags: ["project"]
 params:
     showEdit: false
+    showAuthor: false
 ---
 J'ai réaliser en troisième année de BUT informatique avec 4 autres de mes camarades un jeu mobile multiplateforme qu'on a nommé "Rivall".
 

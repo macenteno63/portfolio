@@ -6,6 +6,7 @@ summary: "Details of my internship experience and the projects I worked on at Bl
 tags: ["professionnal experience"]
 params:
     showEdit: false
+    showAuthor: false
 ---
 
 I completed my apprenticeship at Blizz, a company that offers IT services such as data hosting and software development. Blizz is part of the Odehus group and is located in Cournon d'Auvergne.

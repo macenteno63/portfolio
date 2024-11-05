@@ -8,6 +8,7 @@ params :
     menu: true
     showTableOfContents: true
     showEdit: false
+    showAuthor: false
 ---
 
 ## Professional Experience 👩‍💻
@@ -19,8 +20,8 @@ params :
 Developing the intranet of the company by developing three modules :
 <ul>
     <li>Company's Trombinoscope</li>
-    <li>a meeting room manager</li>
-    <li>a company car manager</li>
+    <li>A ressource manager</li>
+    <li>A leave manager</li>
 </ul>
 
 

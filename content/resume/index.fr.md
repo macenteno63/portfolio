@@ -8,6 +8,7 @@ params :
     menu: true
     showTableOfContents: true
     showEdit: false
+    showAuthor: false
 ---
 
 ## Expérience professionnel  👩‍💻
@@ -19,8 +20,8 @@ params :
 Création de l'intranet de l'entreprise en développant trois modules :
 <ul>
     <li>Trombinoscope d'entreprise</li>
-    <li>Un gestionnaire des salles de réunion</li>
-    <li>Un gestionnaire des véhicules de société</li>
+    <li>Un gestionnaire de ressources</li>
+    <li>Un gestionnaire des congés</li>
 </ul>
 
 

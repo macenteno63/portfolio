@@ -5,7 +5,6 @@ params:
     showDate: false
     showTableOfContents: false
     showEdit: false
-    showAuthor: false
 ---
 ### Hello everyone 👋
 
